@@ -1,4 +1,4 @@
-# OTD-CenterOnKey
+# OTD-QuickCenter
 
 Ever sit down at your desk and spend minutes trying to get your tablet and hand into that *perfect* comfortable position again?  
 This plugin lets you instantly recenter your tablet area whenever your setup feels off.
