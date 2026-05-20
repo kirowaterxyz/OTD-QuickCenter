@@ -31,13 +31,10 @@ The calculated coordinates are automatically printed to the console, making it e
 4. **Important**  
    Your pen tip **must be touching or hovering near the tablet surface** at the exact moment you press the key for recentering to work.  
    Remember to switch back to **Absolute mode** if you're only using it for finding perfect tablet coordinates.
----
 
 # Video Guide
 
 ▶️ [Watch the Installation & Setup Guide](https://www.youtube.com/watch?v=voUUtw_FcWA)
-
----
 
 # Credits & Acknowledgments
 
@@ -46,8 +43,6 @@ The calculated coordinates are automatically printed to the console, making it e
 
 - **Plugin Developer**  
   Huge thanks to [ddline](https://osu.ppy.sh/users/32364013) for developing the plugin.
-
----
 
 # License
 
